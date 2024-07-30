@@ -1,4 +1,4 @@
-const borders = require('@osm_borders/maritime_10m');
+const borders = require('@osm_borders/maritime_10000m');
 const lookup = require('geojson-geometries-lookup');
 
 /**
